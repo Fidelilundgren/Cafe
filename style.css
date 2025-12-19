@@ -68,11 +68,11 @@ body {
 
 .Welcome {
     height: 100vh;
-    background: linear-gradient(135deg, #1e3c72, #2a5298);
+    background: linear-gradient(135deg, #f7f3ee, #e1ece6);
     display: flex;
     align-items: center;
     justify-content: center;
-    color: white;
+    color: #3b2f2f;
     text-align: center;
 }
 
