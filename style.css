@@ -2,7 +2,7 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     background-color: #f7f3ee;
-    color: #3b2f2f;
+    color: rgb(97, 66, 66);
 }
 .hero {
     max-width: 900px;
